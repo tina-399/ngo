@@ -19,6 +19,6 @@ const ngoSchema = new Schema({
     },  
         timestamps: true,
     }
-)
+);
 
 module.export=model('Ngo', ngoSchema);
